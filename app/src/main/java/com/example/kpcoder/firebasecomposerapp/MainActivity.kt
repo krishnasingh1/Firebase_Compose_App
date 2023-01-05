@@ -246,7 +246,9 @@ fun LoginScreen(auth : FirebaseAuth) {
 
         // This Button for Register Intent or activity
         Button(
-            onClick = { /*TODO*/ },
+            onClick = {
+
+            },
             // this is always true there is no condition
             enabled = true,
             modifier = Modifier
